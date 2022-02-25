@@ -25,22 +25,23 @@
   
   ## Strengths
   
-  * Keeps your thoughts organized and make them apprehensive.
-  * Stress Relieving .
-  * Allows yourself to self-reflect .
-  * Easy to design.
+  * Makes things easier for people.
+  * Helps you to automate your light connections.
+  * Makes your home a smart home.
+  * Helps with utility costs.
+  * Better for environment.
   
   ## Weakness
-  * Writing diarires can be time consuming.
-  * No password protection.
+  * It is much expensive then normal light system.
+  * Risk of theft.
  
  ## Opportunities
  
-* We can make this a password protected diary.
+* We can make this accurate and more sensitive.
  
  ## Threats 
  
-* Sometimes people prefer hand-written diary.
+* Risk of theft of the light system is higher since they are non-wired.
  
  # 4W's and 1H
   ## Who
