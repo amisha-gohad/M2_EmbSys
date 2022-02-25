@@ -1,6 +1,8 @@
 # Motion Activated Light With Arduino and HC-SR04 Sensor
 
 # Abstract
+In this project we will build a motion sensor light circuit with an arduino. A motion sensor light circuit is a circuit in which a light turns on when motion is detected.
+With a PIR motion sensor integrated with an arduino, we can detect movement and program the arduino to turn a light on for a certain period of time once this motion is detected.
 
 # Requirements
 
@@ -74,4 +76,5 @@
 
 # Application
 * This device can be installed in public places, which can help to decrease the electricity costs significantly.
+* Can be used to automatically turn on light when a person enters the room.
 
