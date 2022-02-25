@@ -62,7 +62,16 @@
  
 # Block Diagram
 
+![Schematic Diagram](https://user-images.githubusercontent.com/98808752/155770571-cf41e4af-e31e-4381-b022-72dbf387e680.png)
+
 
 # Components
+* Adruino Uno
+* HC-Sr04
+* Power Relay 
+* LED
+* Cables
+
 # Application
+* This device can be installed in public places, which can help to decrease the electricity costs significantly.
 
