@@ -6,21 +6,21 @@ With a motion sensor integrated with an arduino, we can detect movement and prog
 
 # Requirements
 
-  ## High level requirements
+  ## High Level Requirements
   |  ID|Description|Status|
   |---|---|---|
-  | HR01 | Ablity to Turn the light on and off. | Implemented |
-  | HR02 | Ablity to Sense the motion and register it | Implemented |
-  | HR03 | Ablitiy to keep a record of number of people visting the room  | Future | 
-  | HR04 | Ablity to measure the darkness| Future |
+  | HLR01 | It shall turn the light on and off. | To be done |
+  | HLR02 | It shall sense the motion and register it | To be done |
+  | HLR03 | It shall keep a record of number of people visting the room  | Future | 
+  | HLR04 |  It shall measure the darkness| Future |
   
 
-  ## Low level requirements
+  ## Low Level Requirements
   |  ID|Description|Status|
   |---|---|---|
-  | LR01 | Toggle the switch | Implemented |
-  | LR02 | Sense the physical motion | Impemented|
-  | LR03 | Have a second sensor sensing people leaving the room and turn of the light accordingly | Future|
+  | LLR01 | Toggle the switch | To be done |
+  | LLR02 | Sense the physical motion | To be done |
+  | LLR03 | Have a second sensor sensing people leaving the room and turn of the light accordingly | Future|
   
   # SWOT Analysis
   
@@ -66,11 +66,18 @@ With a motion sensor integrated with an arduino, we can detect movement and prog
 
 
 # Components
-* Adruino Uno
-* HC-Sr04
-* Power Relay 
-* LED
-* Cables
+* Adruino Uno : Arduino Uno is a microcontroller board based on the ATmega328P (datasheet). It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator (CSTCE16M0V53-R0), a USB connection, a power jack, an ICSP header and a reset button. 
+
+* HC-Sr04 : The HC-SR04 Ultrasonic Distance Sensor is a sensor used for detecting the distance to an object using sonar. It's ideal for any robotics projects your have which require you to avoid objects, by detecting how close they are you can steer away from them.
+
+
+* Power Relay : A power relay is a device that uses an electromagnet to open or close a circuit when the input (coil) is correctly excited. They provide a high level of isolation between the control signal (coil) and the output (contacts) – typically with a rated impulse voltage of 4 or 6kV.
+
+
+* LED : An LED bulb produces light by passing the electric current through a semiconducting material—the diode—which then emits photons (light) through the principle of electroluminescence.
+
+
+* Cables : Electrical cables are used to connect two or more devices, enabling the transfer of electrical signals or power from one device to the other. 
 
 # Application
 * This device can be installed in public places, which can help to decrease the electricity costs significantly.
