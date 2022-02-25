@@ -9,19 +9,17 @@ With a PIR motion sensor integrated with an arduino, we can detect movement and 
   ## High level requirements
   |  ID|Description|Status|
   |---|---|---|
-  | HR01 | User shall be able to store personal data like name, mobile number, address, date of birth | Implemented |
-  | HR02 | User shall be able to modify the data in the file | Implemented |
-  | HR03 | Build a .exe file to run it on any Windows machine | Implemented |
-  | HR04 | User shall be able to adding reminders for their meeting information, and other various tasks | Future | 
+  | HR01 | Ablity to Turn the light on and off. | Implemented |
+  | HR02 | Ablity to Sense the motion and register it | Implemented |
+  | HR03 | Ablitiy to keep a record of number of people visting the room  | Future | 
   
 
   ## Low level requirements
   |  ID|Description|Status|
   |---|---|---|
-  | LR01 | Enter data to store according to date | Implemented |
-  | LR02 | View records easily and ablity to update it | Impemented|
-  | LR03 | Adding password encryption | Future|
-  | LR04 | Implementing an option to add reminder | Future|
+  | LR01 | Toggle the switch | Implemented |
+  | LR02 | Sense the physical motion | Impemented|
+  | LR03 | Have a second sensor sensing people leaving the room and turn of the light accordingly | Future|
   
   # SWOT Analysis
   
@@ -34,8 +32,8 @@ With a PIR motion sensor integrated with an arduino, we can detect movement and 
   * Better for environment.
   
   ## Weakness
-  * It is much expensive then normal light system.
-  * Risk of theft.
+  * It is much expensive than normal light system.
+  * Risk of theft , since it is wireless.
  
  ## Opportunities
  
