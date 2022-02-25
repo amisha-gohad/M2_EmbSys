@@ -2,7 +2,7 @@
 
 # Abstract
 In this project we will build a motion sensor light circuit with an arduino. A motion sensor light circuit is a circuit in which a light turns on when motion is detected.
-With a PIR motion sensor integrated with an arduino, we can detect movement and program the arduino to turn a light on for a certain period of time once this motion is detected.
+With a motion sensor integrated with an arduino, we can detect movement and program the arduino to turn a light on for a certain period of time once this motion is detected.
 
 # Requirements
 
@@ -12,6 +12,7 @@ With a PIR motion sensor integrated with an arduino, we can detect movement and 
   | HR01 | Ablity to Turn the light on and off. | Implemented |
   | HR02 | Ablity to Sense the motion and register it | Implemented |
   | HR03 | Ablitiy to keep a record of number of people visting the room  | Future | 
+  | HR04 | Ablity to measure the darkness| Future |
   
 
   ## Low level requirements
@@ -33,7 +34,6 @@ With a PIR motion sensor integrated with an arduino, we can detect movement and 
   
   ## Weakness
   * It is much expensive than normal light system.
-  * Risk of theft , since it is wireless.
  
  ## Opportunities
  
@@ -46,19 +46,19 @@ With a PIR motion sensor integrated with an arduino, we can detect movement and 
  # 4W's and 1H
   ## Who
   ---
-  This diary can be used by all age groups.
+  Personal and Public Sector usages.
   ## What
   ---
-  Record personal memories in this diary.
+  Smart solution to toggle light based on motion.
   ## When
   ---
-  At any time when you feel like writing down a your experience .
+  When we want to reduce the manual efforts of toggling switches.
   ## Where
   ---
-  Any place wherever you want to record your experience.
+  Offices and also personal spaces like home.
   ## How
   ---
-  User enters their personal data and stores their experience.
+  By sensing the motion.
  
 # Block Diagram
 
