@@ -1,10 +1,20 @@
 # Motion Activated Light With Arduino and HC-SR04 Sensor
 
-# Abstract
+## Table of contents
+1. [Abstract](#abstract)
+2. [Requirements](#requirements)
+3. [SWOT Analysis](#swot)
+4. [4W's and 1H](#4w1h)
+5. [Block Diagram](#BlockDiagram)
+6. [Components](#components)
+7. [Motion Activated Light with Arduino and HC-SR04 Sensor applications](#applications)
+***
+
+# Abstract <a name="abstract"></a>
 In this project we will build a motion sensor light circuit with an arduino. A motion sensor light circuit is a circuit in which a light turns on when motion is detected.
 With a motion sensor integrated with an arduino, we can detect movement and program the arduino to turn a light on for a certain period of time once this motion is detected.
 
-# Requirements
+# Requirements <a name="requirements"></a>
 
   ## High Level Requirements
   |  ID|Description|Status|
@@ -22,7 +32,7 @@ With a motion sensor integrated with an arduino, we can detect movement and prog
   | LLR02 | Sense the physical motion | To be done |
   | LLR03 | Have a second sensor sensing people leaving the room and turn of the light accordingly | Future|
   
-  # SWOT Analysis
+  # SWOT Analysis <a name="swot"></a>
   
   ## Strengths
   
@@ -43,7 +53,7 @@ With a motion sensor integrated with an arduino, we can detect movement and prog
  
 * Risk of theft of the light system is higher since they are non-wired.
  
- # 4W's and 1H
+ # 4W's and 1H <a name="4w1h"></a>
   ## Who
   ---
   Personal and Public Sector usages.
@@ -60,12 +70,12 @@ With a motion sensor integrated with an arduino, we can detect movement and prog
   ---
   By sensing the motion.
  
-# Block Diagram
+# Block Diagram <a name="BlockDiagram"></a>
 
 ![Schematic Diagram](https://user-images.githubusercontent.com/98808752/155770571-cf41e4af-e31e-4381-b022-72dbf387e680.png)
 
 
-# Components
+# Components <a name="components"></a>
 * Adruino Uno : Arduino Uno is a microcontroller board based on the ATmega328P (datasheet). It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator (CSTCE16M0V53-R0), a USB connection, a power jack, an ICSP header and a reset button. 
 
 * HC-Sr04 : The HC-SR04 Ultrasonic Distance Sensor is a sensor used for detecting the distance to an object using sonar. It's ideal for any robotics projects your have which require you to avoid objects, by detecting how close they are you can steer away from them.
@@ -79,7 +89,7 @@ With a motion sensor integrated with an arduino, we can detect movement and prog
 
 * Cables : Electrical cables are used to connect two or more devices, enabling the transfer of electrical signals or power from one device to the other. 
 
-# Application
+# Application <a name="applications"></a>
 * This device can be installed in public places, which can help to decrease the electricity costs significantly.
 * Can be used to automatically turn on light when a person enters the room.
 
