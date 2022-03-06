@@ -1,4 +1,3 @@
 # M2_EmbSys
 
-In this project, we are making an electronic voting machine , it is an effective tool for voting. It ensures flawless voting and thus have become more widespread. Voting machines are e total combination of  electromechanical components as well as software and hardware.that is used to define ballots; to cast and count votes,to report or display election results, and to maintain and
-produce any audit trail information . 
+In this project we will build a motion sensor light circuit with an arduino. A motion sensor light circuit is a circuit in which a light turns on when motion is detected. With a motion sensor integrated with an arduino, we can detect movement and program the arduino to turn a light on for a certain period of time once this motion is detected.
