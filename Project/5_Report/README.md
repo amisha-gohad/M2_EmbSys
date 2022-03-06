@@ -85,7 +85,8 @@ With a motion sensor integrated with an arduino, we can detect movement and prog
 # Schematic Diagram 
 ![Schematic Diagram](https://user-images.githubusercontent.com/98808752/155770571-cf41e4af-e31e-4381-b022-72dbf387e680.png)
 
-### High Level Test plan <a name="TestPlan"></a>
+# Test Plan  <a name="TestPlan"></a>
+### High Level Test plan
 ID | Requirement | Status
 --- | --- | ---
 01 | Threshold Distance should be set between 2 cm to 4 cm | :white_check_mark:
