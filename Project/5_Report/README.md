@@ -2,11 +2,11 @@
 
 ## Table of contents
 1. [Abstract](#abstract)
-2. [Output](#output)
-3. [Requirements](#requirements)
-4. [SWOT Analysis](#swot)
-5. [4W's and 1H](#4w1h)
-6. [Block Diagram](#BlockDiagram)
+2. [Requirements](#requirements)
+3. [SWOT Analysis](#swot)
+4. [4W's and 1H](#4w1h)
+5. [Block Diagram](#BlockDiagram)
+6. [Output](#output)
 7. [Test Plan](#TestPlan)
 8. [Components](#components)
 9. [Motion Activated Light with Arduino and HC-SR04 Sensor applications](#applications)
@@ -15,10 +15,6 @@
 # Abstract <a name="abstract"></a>
 In this project we will build a motion sensor light circuit with an arduino. A motion sensor light circuit is a circuit in which a light turns on when motion is detected.
 With a motion sensor integrated with an arduino, we can detect movement and program the arduino to turn a light on for a certain period of time once this motion is detected.
-
-# Output  <a name="output"></a>
-
-![output](https://user-images.githubusercontent.com/98808752/156934774-77085205-3990-451f-a741-225898ff200d.jpeg)
 
 
 # Requirements <a name="requirements"></a>
@@ -84,6 +80,10 @@ With a motion sensor integrated with an arduino, we can detect movement and prog
 ![Block Diagram](https://user-images.githubusercontent.com/98808752/155834640-c130b1ff-886f-495c-86cf-68c9844902d8.jpeg)
 # Schematic Diagram 
 ![Schematic Diagram](https://user-images.githubusercontent.com/98808752/155770571-cf41e4af-e31e-4381-b022-72dbf387e680.png)
+
+# Output  <a name="output"></a>
+
+![output](https://user-images.githubusercontent.com/98808752/156934774-77085205-3990-451f-a741-225898ff200d.jpeg)
 
 # Test Plan  <a name="TestPlan"></a>
 ### High Level Test plan
